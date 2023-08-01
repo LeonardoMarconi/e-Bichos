@@ -21,5 +21,5 @@ Para baixar o artigo científico, [clique aqui](https://drive.google.com/file/d/
 
 ## 📷 Screenshots  
 <div style="flex-direction: row;">
-<img style="flex-direction: row;" alt="Tela 1" src="https://leonardomarconi.github.io/gallery/videos/ebichos.gif" width="100%" height="400">
+<img alt="Tela 1" src="https://leonardomarconi.github.io/gallery/videos/ebichos.gif" width="700px" height="400">
 </div>
