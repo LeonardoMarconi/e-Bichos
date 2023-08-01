@@ -21,5 +21,5 @@ Para baixar o artigo científico, [clique aqui](https://drive.google.com/file/d/
 
 ## 📷 Screenshots  
 <div style="flex-direction: row;">
-
+<img style="flex-direction: row;" alt="Tela 1" src="https://drive.google.com/uc?export=view&id=15bfZtLg_8zFALd2RpuLD6JJ36jx5bzyY" >
 </div>
