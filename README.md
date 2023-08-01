@@ -21,5 +21,5 @@ Para baixar o artigo científico, [clique aqui](https://drive.google.com/file/d/
 
 ## 📷 Screenshots  
 <div style="flex-direction: row;">
-![image](https://github.com/LeonardoMarconi/e-Bichos/assets/11573246/b71276d4-f965-4f9a-a3d6-024c3e0b9a9f)
+
 </div>
