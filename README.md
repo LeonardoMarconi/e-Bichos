@@ -1,4 +1,4 @@
-# e-Bichos 
+# e-Bichos 🗺️🐯🔬
 
 e-Bichos - Sistema de Integrado de Dados Científicos entre Pesquisadores
 
