@@ -1,4 +1,9 @@
 # e-Bichos 🗺️🐯🔬
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/e-Bichos?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/e-Bichos?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/LeonardoMarconi/e-Bichos?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/LeonardoMarconi/e-Bichos?style=plastic)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/LeonardoMarconi/e-Bichos?style=plastic)
 
 e-Bichos - Sistema de Integrado de Dados Científicos entre Pesquisadores
 
@@ -21,5 +26,5 @@ Para baixar o artigo científico, [clique aqui](https://drive.google.com/file/d/
 
 ## 📷 Screenshots  
 <div style="flex-direction: row;">
-<img alt="Tela 1" src="https://leonardomarconi.github.io/gallery/videos/ebichos.gif" width="700px" height="400">
+<img alt="Tela 1" src="app/images/ebichos.gif" width="700px" height="400">
 </div>
