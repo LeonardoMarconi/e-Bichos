@@ -1,9 +1,9 @@
 # e-Bichos 🗺️🐯🔬
-![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/e-Bichos?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/e-Bichos?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/LeonardoMarconi/e-Bichos?style=plastic)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/LeonardoMarconi/e-Bichos?style=plastic)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/LeonardoMarconi/e-Bichos?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/LeonardoMarconi/e-Bichos?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/LeonardoMarconi/e-Bichos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/LeonardoMarconi/e-Bichos?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/LeonardoMarconi/e-Bichos?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/LeonardoMarconi/e-Bichos?style=for-the-badge)
 
 e-Bichos - Sistema de Integrado de Dados Científicos entre Pesquisadores
 
